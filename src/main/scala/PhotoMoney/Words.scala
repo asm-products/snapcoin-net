@@ -36,5 +36,5 @@ object Words {
 
   def errorProcessing() = "Error during qr code processing"
 
-  def errorDecodingAttachment() = "I couldn't decode that attachment"
+  def errorDecodingAttachment() = "Couldn't decode that attachment"
 }
